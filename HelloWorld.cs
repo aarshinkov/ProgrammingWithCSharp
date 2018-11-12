@@ -4,6 +4,6 @@ class HelloCSharp
 {
     static void Main()
     {
-        Console.WriteLine("HelloC#!");
+        Console.WriteLine("Hello, World!");
     }
 }
