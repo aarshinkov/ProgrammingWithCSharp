@@ -10,7 +10,7 @@ The files are just for reference. They have *sentimental value* and __DO NOT__ r
 
 ## Reference
 
-For some real-life projects you can see the [__MovieCatalog__](https://github.com/aarshinkov/MovieCatalog) project I am currenly working on...
+For some real-life projects you can see the [__MovieCatalog__](https://github.com/aarshinkov/MovieCatalog) or [__StoryCom__](https://github.com/aarshinkov/StoryCom) projects I am currenly working on...
 
 My accounts:
 
